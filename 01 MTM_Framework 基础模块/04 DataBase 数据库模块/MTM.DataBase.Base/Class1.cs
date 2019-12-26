@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MTM.DataBase.Repository
+namespace MTM.DataBase.Base
 {
     public class Class1
     {

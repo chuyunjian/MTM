@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MTM.Util.File
+namespace MTM.DataBase.Respority
 {
     public class Class1
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MTM.Util.Login
+namespace MTM.Server.Message
 {
     public class Class1
     {

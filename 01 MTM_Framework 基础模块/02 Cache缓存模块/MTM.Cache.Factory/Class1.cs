@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MTM.Cache.Redis
+namespace MTM.Cache.Factory
 {
     public class Class1
     {

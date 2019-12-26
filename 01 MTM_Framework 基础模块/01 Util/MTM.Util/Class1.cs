@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MTM.DataBase.MySql
+namespace MTM.Util
 {
     public class Class1
     {
